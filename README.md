@@ -1,2 +1,2 @@
 # MLFlow-test
-Test repository for MLFlow
+Repository for MLFlow experiments
