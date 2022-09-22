@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/a.mancinelli/Desktop/MlFlow/mlruns/0/e2e838e449c34e4395be1e45626ada9e/artifacts
+end_time: 1663844589885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e2e838e449c34e4395be1e45626ada9e
+run_uuid: e2e838e449c34e4395be1e45626ada9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1663844577313
+status: 3
+tags: []
+user_id: a.mancinelli
